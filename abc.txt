@@ -1,3 +1,3 @@
 hello Linux
-jffj
-kjkdk
+Welcome to github
+linux workshop
